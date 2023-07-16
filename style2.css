@@ -20,3 +20,11 @@ body{
     top: 400px;
     float: right;
     }
+    #green{
+        width: 100px;
+        height: 100px;
+        background-color: #0F0;
+        position: fixed;
+        bottom: 17vw;
+        right: 34.4vw;
+        }
