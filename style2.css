@@ -1,0 +1,22 @@
+body{
+    box-sizing: border-box;
+    background-color: #EEE;
+    }
+    #container{
+    width: 600px;
+    height: 600px;
+    border: 1px solid #CCC;
+    margin: 0 auto;
+    background-color: #FFF;
+    }
+    #red, #green, #blue{
+        text-align: center; 
+    }
+    #red{
+        width: 200px;
+    height: 200px;
+    background-color: #F00;
+    position: relative;
+    top: 400px;
+    float: right;
+    }
